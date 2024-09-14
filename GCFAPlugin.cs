@@ -15,7 +15,7 @@ using UnityEngine.Networking;
 
 namespace GoldChestForAll
 {
-    [BepInPlugin("com.DestroyedClone.GoldChestForAll", "GoldChestForAll", "1.0.2")]
+    [BepInPlugin("com.DestroyedClone.GoldChestForAll", "GoldChestForAll", "1.0.20")]
     public class GCFAPlugin : BaseUnityPlugin
     {
         public static ConfigEntry<float> CfgCostMultiplier { get; set; }

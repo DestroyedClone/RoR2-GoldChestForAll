@@ -1,4 +1,4 @@
-* `1.0.2` - SOTS Patch
+* `1.0.20` - SOTS Patch
   * Improved drop count code to prevent mod conflicts
   * New config setting: additive multiplier per player
 * `1.0.11`

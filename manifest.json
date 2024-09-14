@@ -1,6 +1,6 @@
 {
   "name": "GoldChestForAll",
-  "version_number": "1.0.2",
+  "version_number": "1.0.20",
   "website_url": "https://github.com/DestroyedClone/RoR2-GoldChestForAll",
   "description": "Makes Gold Chests drop one item PER player.",
   "dependencies": [
